@@ -1,6 +1,6 @@
 # Junior Frontend Developer
 
-Hi, I am junior frontend developer from Russia. I like web-development and especially JavaScript.
+> Hi, I am junior frontend developer from Russia. I like web-development and especially JavaScript.
 
 ## My Skills: 
 
