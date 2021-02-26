@@ -1,7 +1,5 @@
 # joebrock666.github.io
 
----
-
 My Skills: 
 
 - Git
