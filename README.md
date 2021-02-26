@@ -1,6 +1,8 @@
-# joebrock666.github.io
+# Junior Frontend Developer
 
-My Skills: 
+Hi, I am junior frontend developer from Russia. I like web-development and especially JavaScript.
+
+## My Skills: 
 
 - HTML5, CSS3, SCSS, Gulp, BEM
 - JavaScript
@@ -10,3 +12,4 @@ My Skills:
 - MySQL
 - Git
 - Linux, Bash
+- Photoshop
