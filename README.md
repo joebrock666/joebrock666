@@ -4,7 +4,9 @@ Hi, I am junior frontend developer from Russia. I like web-development and espec
 
 ## My Skills: 
 
-- HTML5, CSS3, SCSS, Gulp, BEM
+- HTML5/CSS3, SASS/SCSS
+- Gulp, Webpack
+- Bootstrap
 - JavaScript
 - Node.js, Express.js
 - Vue.js
