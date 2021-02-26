@@ -1,6 +1,6 @@
 # Junior Frontend Developer
 
-Hi, I am junior frontend developer from Russia. I like web-development and I've gotta admit that I am in love with  JavaScript.
+:octocat:  Hi, I am junior frontend developer from Russia. I like web-development and I'm in love with JavaScript.
 
 ## My Skills: 
 
