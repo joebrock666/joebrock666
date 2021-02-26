@@ -14,4 +14,3 @@ Hi, I am junior frontend developer from Russia. I like web-development and espec
 - MySQL
 - Git
 - Linux, Bash
-- Photoshop
