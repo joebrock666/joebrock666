@@ -1,4 +1,4 @@
-# Junior Frontend Developer
+# David Murasov
 
 > Hi, I am junior frontend developer from Russia. I like web-development and especially JavaScript.
 
