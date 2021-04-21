@@ -1,4 +1,4 @@
-# David Murasov
+# David Murasov ![Visitors](https://visitor-badge.glitch.me/badge?page_id=joebrock666) 
 
 > Hi, I am junior frontend developer from Russia. I like web-development and especially JavaScript.
 
