@@ -2,7 +2,7 @@
 
 > Hi, I am junior frontend developer from Russia. I like web-development and especially JavaScript.
 
-## My Skills: 
+## My Skills
 
 - HTML5/CSS3, SASS/SCSS
 - Gulp, Webpack
