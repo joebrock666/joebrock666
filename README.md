@@ -17,4 +17,4 @@
 
 ## My Github Statistics
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=joebrock666&count_private=true&show_icons=true&theme=gotham" alt="joebrock666" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joebrock666&count_private=false&hide=tsql&langs_count=7&theme=synthwave&layout=compact" alt="gost3228" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=joebrock666&count_private=true&show_icons=true&theme=dracula" alt="joebrock666" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joebrock666&count_private=false&hide=tsql&langs_count=7&theme=dracula&layout=compact" alt="joebrock666" /></p>
