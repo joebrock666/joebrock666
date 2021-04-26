@@ -8,8 +8,8 @@
 - Gulp, Webpack
 - Bootstrap
 - JavaScript
-- Node.js, Express.js
-- Vue.js
+- Node.js, Express
+- Vue.js, Nuxt
 - PHP
 - MySQL
 - Git
