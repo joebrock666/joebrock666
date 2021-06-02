@@ -1,8 +1,8 @@
 # David Murasov ![Visitors](https://visitor-badge.glitch.me/badge?page_id=joebrock666) 
 
-> Hi, I am junior frontend developer from Russia. I like web-development and especially JavaScript.
+> Hi, I am junior frontend developer from Russia. I like web-development and especially JavaScript. 
 
-## My Skills
+## My Stack
 
 - HTML5/CSS3, SASS/SCSS
 - Gulp, Webpack
@@ -14,6 +14,8 @@
 - MySQL
 - Git
 - Linux, Bash
+
+I constantly learn new technologies: you can find some pet-projects in my repositories. 
 
 ## My Github Statistics
 
