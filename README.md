@@ -3,10 +3,9 @@
 > Hi, I am junior frontend developer from Russia. I like web-development and especially JavaScript. 
 
 ### Contacts
-  [<img height="50" src="https://image.flaticon.com/icons/png/512/732/732200.png">](mailto:joebrock.work@gmail.com)
-  [<img height="50" src="https://image.flaticon.com/icons/png/512/145/145807.png">](https://linkedin.com/in/joebrock666)
-  [<img height="50" src="https://image.flaticon.com/icons/png/512/2111/2111646.png">](https://t.me/joebrock666)
-<p></p>
+  [<img height="50" src="https://img.icons8.com/color/344/gmail-new.png">](mailto:joebrock.work@gmail.com)
+  [<img height="50" src="https://img.icons8.com/color/344/linkedin.png">](https://linkedin.com/in/joebrock666)
+  [<img height="50" src="https://img.icons8.com/color/344/telegram-app--v1.png">](https://t.me/joebrock666)
 
 ### Main languages and tools
 
