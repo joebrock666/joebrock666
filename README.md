@@ -15,18 +15,27 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
-## Stack
+Skills:
+---
+  + OOP, MVC, REST API, SOLID, BEM
+  + Docker, docker-compose
+  + VCS: Git
+  + Linux, Bash
+  
+  + #### Backend:
 
-- HTML5/Pug/CSS3, SASS/SCSS
-- Gulp/Webpack
-- Bootstrap
-- JavaScript
-- Node/Express
-- Vue/Nuxt
-- PHP/Laravel/Backpack
-- MySQL
-- Git
-- Linux, Bash
+    + PHP/Laravel/Backpack
+    + Node.js/Express.js
+    + MySQL
+
+
+  + #### Frontend:
+
+    + HTML5/Pug/CSS3, SASS/SCSS
+    + JavaScript
+    + Gulp/Webpack
+    + Bootstrap
+    + Vue.js (VueRouter, Vuex, Vuetify, NuxtJs)
 
 I constantly learn new technologies: you can find some of my pet-projects in my repositories. 
 
