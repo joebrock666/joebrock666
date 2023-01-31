@@ -30,4 +30,8 @@
 
 I constantly learn new technologies: you can find some of my pet-projects in my repositories. 
 
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=joebrock666&show_icons=true&theme=gotham" alt="joebrock666" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joebrock666&count_private=false&hide=tsql&langs_count=7&theme=gotham&layout=compact" alt="joebrock666" /></p>
+
 ---
