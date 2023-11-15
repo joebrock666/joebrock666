@@ -1,6 +1,6 @@
 # David Murasov ![Visitors](https://visitor-badge.glitch.me/badge?page_id=joebrock666) 
 
-> I am 18 year old frontend developer. I like web-development and especially JavaScript, and currently my main framework is Vue.
+> I am 19 year old frontend developer. I like web-development and especially JavaScript, and currently my main framework is Vue.
 
 ### Contacts
   [<img height="50" src="https://img.icons8.com/color/344/telegram-app--v1.png">](https://t.me/joebrock666)
