@@ -1,6 +1,6 @@
 # David Murasov ![Visitors](https://visitor-badge.glitch.me/badge?page_id=joebrock666) 
 
-> I am a 19-year-old frontend developer with a passion for web development, particularly in JavaScript. Currently, my primary framework of expertise is Vue.js.
+> I am a frontend developer with a passion for web development, particularly in JavaScript. Currently, my primary framework of expertise is Vue.js.
 
 ### Contacts
   [<img height="50" src="https://img.icons8.com/color/344/telegram-app--v1.png">](https://t.me/joebrock666)
