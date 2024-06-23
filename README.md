@@ -3,7 +3,7 @@
 > I am a frontend developer with a passion for web development, particularly in JavaScript. Currently, my primary framework of expertise is Vue.js.
 
 ### Contacts
-  [<img height="50" src="https://img.icons8.com/color/344/telegram-app--v1.png">](https://t.me/joebrockwork666)
+  [<img height="50" src="https://img.icons8.com/color/344/telegram-app--v1.png">](https://t.me/david_murasov)
   [<img height="50" src="https://img.icons8.com/color/344/gmail-new.png">](mailto:joebrock.work@gmail.com)
   [<img height="50" src="https://img.icons8.com/color/344/linkedin.png">](https://linkedin.com/in/joebrock666)
 
