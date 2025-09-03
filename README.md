@@ -1,6 +1,6 @@
 # David Murasov  ![](https://komarev.com/ghpvc/?username=joebrock666&color=lightgrey)
 
-> I am a frontend developer with a passion for web development, particularly in JavaScript. Currently, my primary framework of expertise is Vue.js.
+> Well hello there! My name is David and I am passionate about web development.
 
 <img src="contributions.svg">
 <br />
